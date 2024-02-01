@@ -1,0 +1,13 @@
+*{
+    font-family: Georgia, serif;
+}
+body, h1, h2, p, img {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+section{
+    font-family: impact, sans-serif;
+    text-align: center;
+    color: firebrick;
+}
+
